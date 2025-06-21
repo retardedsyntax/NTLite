@@ -1,3 +1,6 @@
 [submodule "Eyevou-NTLitePresets"]
 	path = NTLitePresets
 	url = https://github.com/Eyevou/NTLitePresets.git
+[submodule "CTT-ntlite-configs"]
+	path = ntlite-configs
+	url = https://github.com/ChrisTitusTech/ntlite-configs.git
