@@ -100,6 +100,7 @@ $PackageList = ConvertFrom-Csv @'
     Intel.IntelGraphicsExperience, AppUp.IntelGraphicsExperience_8j3eq9eme6ctt
     NVIDIA.NVIDIAControlPanel, NVIDIACorp.NVIDIAControlPanel_56jybvy8sckqj
     Netflix, 4DF9E0F8.Netflix_mcm4njqhnhss8
+    AlexSSB.ADBExplorer, 57163AlexSSB.ADBExplorer_945x2b8a76bwt
 '@
 
 $DependencyList = [ordered]@{
