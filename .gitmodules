@@ -1,0 +1,3 @@
+[submodule "Eyevou-NTLitePresets"]
+	path = NTLitePresets
+	url = https://github.com/Eyevou/NTLitePresets.git
